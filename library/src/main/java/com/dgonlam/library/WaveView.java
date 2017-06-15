@@ -1,4 +1,4 @@
-package com.dgonlam.waveview;
+package com.dgonlam.library;
 
 import android.content.Context;
 import android.graphics.Canvas;
